@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "ChatGPT",
+    "description": "Advanced conversational AI for writing, coding, and research.\nHelps with problem-solving, learning, and productivity tasks.",
+    "price": 20,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg",
+    "status": "popular"
+  },
+  {
+    "id": 2,
+    "title": "Google Gemini",
+    "description": "Google’s AI assistant for text, images, and coding.\nIntegrated with Google services for smart productivity.",
+    "price": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Google_Gemini_logo.svg",
+    "status": "mostwanted"
+  },
+  {
+    "id": 3,
+    "title": "Midjourney",
+    "description": "AI tool for generating high-quality images from text prompts.\nPopular among designers and digital artists.",
+    "price": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Midjourney_Emblem.png",
+    "status": "favourite"
+  },
+  {
+    "id": 4,
+    "title": "DALL·E",
+    "description": "AI image generator that creates visuals from text descriptions.\nUseful for creative design and concept art.",
+    "price": 15,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/DALL-E_Logo.png",
+    "status": "popular"
+  },
+  {
+    "id": 5,
+    "title": "Grammarly",
+    "description": "AI writing assistant for grammar, tone, and clarity.\nHelps improve emails, essays, and professional writing.",
+    "price": 12,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Grammarly_logo.svg",
+    "status": "favourite"
+  },
+  {
+    "id": 6,
+    "title": "Notion AI",
+    "description": "AI-powered workspace assistant for notes and documents.\nSummarizes content and helps with writing tasks.",
+    "price": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png",
+    "status": "mostwanted"
+  },
+  {
+    "id": 7,
+    "title": "Runway ML",
+    "description": "AI tool for video editing and content generation.\nCreates videos, effects, and animations using AI.",
+    "price": 15,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/RunwayML_logo.png",
+    "status": "popular"
+  },
+  {
+    "id": 8,
+    "title": "Copy.ai",
+    "description": "AI copywriting tool for marketing and content creation.\nGenerates ads, blogs, and social media posts quickly.",
+    "price": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Copy.ai_logo.png",
+    "status": "favourite"
+  }
+]
